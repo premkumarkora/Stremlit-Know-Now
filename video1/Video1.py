@@ -1,22 +1,3 @@
-# Prerequisites
-# Python IDE
-# Python  Greater than 3.7
-# PIP
-
-
-
-
-# pip install streamlit
-# pip install plotly.express
-# pip install pandas
-# pip install numpy
-# pip install plotly
-
-
-
-
-
-
 import streamlit as st
 import plotly.express as px
 
