@@ -11,3 +11,5 @@ Once you have all the pre-requsites, Please install the following libriaries
 3. pip install plotly.express
 4. pip install pandas
 5. pip install numpy
+
+Video link for https://youtu.be/RW9sMlbAslQ
